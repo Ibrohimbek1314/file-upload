@@ -1,0 +1,213 @@
+[
+    {
+        "userId": 1,
+        "password": "a70f50201ca59e2bfee8bc19c6d4c165348cfd7d672474d39d0201483b61fc55",
+        "username": "nosir",
+        "birthdate": "1992-02-25",
+        "role": "admin",
+        "gender": 1
+    },
+    {
+        "userId": 2,
+        "password": "d74350e290b4c92b79d1c51f2f1f37c77b2483388cd180aa0cd38b8d8cedaa18",
+        "username": "donishmand",
+        "birthdate": "2021-12-16",
+        "gender": "1"
+    },
+    {
+        "userId": 3,
+        "password": "1758ca3b482b985905a50a94d76f4d851e163340f0fa945995c8aec7c5d9fda3",
+        "username": "alisher",
+        "birthdate": "2021-12-10",
+        "gender": "1"
+    },
+    {
+        "userId": 4,
+        "password": "6954be3f07526d4954943bf5d120aa73344a1aed8beeec25ab23bd1201c64311",
+        "username": "donishmand",
+        "birthdate": "2021-12-10",
+        "gender": "1"
+    },
+    {
+        "userId": 5,
+        "password": "e5c6d666cb418157a097e2b7e5e89a17f4e68535ad844c41d1e3051a3f037c07",
+        "username": "doniyor",
+        "birthdate": "2021-12-10",
+        "gender": "1"
+    },
+    {
+        "userId": 6,
+        "password": "a9e6f36035dbb98ca558ab151fd95e7f082d44f045f8eac36ace83374e96d333",
+        "username": "Abdulloh",
+        "birthdate": "1999-11-11",
+        "gender": "1"
+    },
+    {
+        "userId": 7,
+        "password": "20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea",
+        "username": "qweerty",
+        "birthdate": "2021-12-29",
+        "gender": "1"
+    },
+    {
+        "userId": 8,
+        "password": "ef51306214d9a6361ee1d5b452e6d2bb70dc7ebb85bf9e02c3d4747fb57d6bec",
+        "username": "yusuf",
+        "birthdate": "2006-12-02",
+        "gender": "1"
+    },
+    {
+        "userId": 9,
+        "password": "8e049b2568f9ef1819361275f63dd6dad4e43424cf74275f238b81a22f89db84",
+        "username": "superman",
+        "birthdate": "2022-01-28",
+        "gender": "1"
+    },
+    {
+        "userId": 10,
+        "password": "8df87c6a8f88f976d8d948f81df561723824a1848518d705e191a3167f8bd2bf",
+        "username": "Anvar",
+        "birthdate": "2022-01-03",
+        "gender": "1"
+    },
+    {
+        "userId": 11,
+        "password": "db3a1abf83e604ff7b0ab162019d65a4f7ca0c1c03ea1e4551f5f367c51227d7",
+        "username": "mandev",
+        "birthdate": "1992-05-17",
+        "gender": "1"
+    },
+    {
+        "userId": 12,
+        "password": "3ba437a378e2f2b2c4029104373cdcdd43533874b43b90453803401feba1e3aa",
+        "username": "rustam",
+        "birthdate": "2002-01-17",
+        "gender": "1"
+    },
+    {
+        "userId": 13,
+        "password": "fe3b7bbe12b4485b50ee3080425d4c6ed8617893b0b708938638576a84ec2449",
+        "username": "Sarvar",
+        "birthdate": "2001-12-12",
+        "gender": "1"
+    },
+    {
+        "userId": 14,
+        "password": "82830819bde207383221953253d916b27ca24453fb5cc05fcf48150f7b075449",
+        "username": "John Doe",
+        "birthdate": "2021-12-21",
+        "gender": "1"
+    },
+    {
+        "userId": 15,
+        "password": "ef51306214d9a6361ee1d5b452e6d2bb70dc7ebb85bf9e02c3d4747fb57d6bec",
+        "username": "qwer",
+        "birthdate": "2022-01-06",
+        "gender": "1"
+    },
+    {
+        "userId": 16,
+        "password": "a9c01dd8e233a8caadd2f54a5d2f035b42eb3d0815411e5790b2bb3788fd5f87",
+        "username": "Ibragim ",
+        "birthdate": "2003-07-14",
+        "gender": "1"
+    },
+    {
+        "userId": 17,
+        "password": "049a68c15c0d6e26c8b4a0743e6b87f074864c2fae5983c88956cb2882d608f5",
+        "username": "qobil",
+        "birthdate": "2022-01-05",
+        "gender": "1"
+    },
+    {
+        "userId": 18,
+        "password": "049a68c15c0d6e26c8b4a0743e6b87f074864c2fae5983c88956cb2882d608f5",
+        "username": "Donishmand",
+        "birthdate": "2022-01-13",
+        "gender": "1"
+    },
+    {
+        "userId": 19,
+        "password": "049a68c15c0d6e26c8b4a0743e6b87f074864c2fae5983c88956cb2882d608f5",
+        "username": "donishmand",
+        "birthdate": "2022-01-04",
+        "gender": "1"
+    },
+    {
+        "userId": 20,
+        "password": "fbfb386efea67e816f2dda0a8c94a98eb203757aebb3f55f183755a192d44467",
+        "username": "donishmand",
+        "birthdate": "2022-01-04",
+        "gender": "1"
+    },
+    {
+        "userId": 21,
+        "password": "ef51306214d9a6361ee1d5b452e6d2bb70dc7ebb85bf9e02c3d4747fb57d6bec",
+        "username": "Islom",
+        "birthdate": "2004-12-12",
+        "gender": "1"
+    },
+    {
+        "userId": 22,
+        "password": "ef51306214d9a6361ee1d5b452e6d2bb70dc7ebb85bf9e02c3d4747fb57d6bec",
+        "username": "superman",
+        "birthdate": "2022-01-12",
+        "gender": "1"
+    },
+    {
+        "userId": 23,
+        "password": "0c157d64b2d36ff827f37c79b7f22136c8d0de4afc1fcb05af9dcc59c40f1e4b",
+        "username": "qwerty",
+        "birthdate": "2022-01-02",
+        "gender": "1"
+    },
+    {
+        "userId": 24,
+        "password": "a32df4cf1279c8c1532ef759fbfd1ec7878dd7de07247c8c916f39ea32ec749c",
+        "username": "Islom",
+        "birthdate": "2000-04-05",
+        "gender": "1"
+    },
+    {
+        "userId": 25,
+        "password": "0b0d6a32303696547fa3435908191b442d0a33ec15de6b22bd50f48276ccde6c",
+        "username": "man",
+        "birthdate": "2003-07-14",
+        "gender": "1"
+    },
+    {
+        "userId": 26,
+        "password": "4b9871a265a4fdcf07b7f070750b8013c44b344c1900366cb2d550525e670a5a",
+        "username": "hello world",
+        "birthdate": "0010-10-10",
+        "gender": "1"
+    },
+    {
+        "userId": 27,
+        "password": "049a68c15c0d6e26c8b4a0743e6b87f074864c2fae5983c88956cb2882d608f5",
+        "username": "donishmand",
+        "birthdate": "2022-01-04",
+        "gender": "1"
+    },
+    {
+        "userId": 28,
+        "password": "2881ea1b1b015676f24dc229ad4829e465256904baa2da8b48c4e0241d02536a",
+        "username": "man",
+        "birthdate": "2001-07-14",
+        "gender": "1"
+    },
+    {
+        "userId": 29,
+        "password": "c31097bc49e7cbdbec19cfa5193ee0ae8a0763e031040912c725f61ad20e7b26",
+        "username": "asdasdsadgv",
+        "birthdate": "2001-02-01",
+        "gender": "1"
+    },
+    {
+        "userId": 30,
+        "password": "b32b453a0940a2fe70d0f653aa931ee59534403e0f99fe8c82f8e76c0984a1cd",
+        "username": "qwe",
+        "birthdate": "2003-07-14",
+        "gender": "1"
+    }
+]

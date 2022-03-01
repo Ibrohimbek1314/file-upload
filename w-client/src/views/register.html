@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="./css/auth.css">
+	<title>Document</title>
+</head>
+<body>
+
+	<form id="form">
+		<span id="messageText"></span>
+		<input id="usernameInput" type="text" required>
+		<input id="passwordInput" type="password" required>
+		<select id="genderInput">
+			<option value="1">male</option>
+			<option value="2">female</option>
+		</select>
+		<input id="dateInput" type="date" required>
+		<div>
+			<span>Have an account? <a href="/login">Login here.</a></span>
+			<button>Register</button>
+		</div>
+	</form>
+
+<script src="./js/util.js"></script>
+<script src="./js/auth.js"></script>
+<script src="./js/register.js"></script>
+</body>
+</html>
